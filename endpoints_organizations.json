@@ -6,6 +6,11 @@
   },
   {
     "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000001",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_test"
+  },
+  {
+    "status": "active",
     "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "endpoint": "FB76A724-7004-4DCE-A33B-4771F6E3B53B"
   }
