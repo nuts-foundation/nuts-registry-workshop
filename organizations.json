@@ -3,10 +3,5 @@
     "name": "Verpleeghuis De Nootjes",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwOkBHQ5b2QG9STODkHLY\nRfLSEYGqJvy9IAIZTbHhnYDUOSteF9adQtxs56AwTiYHM5ei2qiS9otHZp8zojqg\n3jUqWuJCw0X0HH3Jpp7RWbFQtabAYpQ/N1+klKkQ64WgQ7XbWxlP+OcsiFXYsBou\nMfC+LeBqgytJcpFvkf1kw2x6LhLD63qr/wg0MVl6mx8d8ccNPDp8nzkgutLWKREM\n/tfnqcwZS+ucKBNPTxAiP3rspF3CgoGn6WCe5TFN7dW2pTI5KTePDuwq698CXpQI\nbu9rxK+zxhI1A4ba8U9THc9YuH889HUwCNTKFV3SPl+jg5FqHjngHpk6ImmWfMPP\nowIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "test",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000001",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwWBXHRvg93SITIgMcphv\n1GTI4s5rlnO9BKMBt2GD2/ZnavLbDRpFAbZTT5B9wtugJ/finvJ/qeq+KRzaLNxh\n9Hkm3eCP09H2JxYIH+jD4KMVIl/X0GQXyweLggf+lt42XkdaJRZLHRLzkYDRjOfk\n0IvhLvMFlSLOrrknxpZIi9oUcxJB2OadX4yO1bdI5AS/EzmM/h2bvDJYc8cWu6pT\n42jXK8hwSV4SuCkB3R8+qHq+UUQ7uxU+75Rq59hoF3XXPd8UUhx6w45WC7tJp/AW\nCFbgy4PX0SqqVYeKhToyF6W+VNvIuef2Wx1rnf+cFp5lM6i9DdTsg+Fa0JzMXR2i\n0QIDAQAB\n-----END PUBLIC KEY-----\n"
   }
 ]
