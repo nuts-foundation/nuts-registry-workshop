@@ -11,7 +11,7 @@
     "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_test",
     "status": "active",
     "version": "0.1.0",
-    "URL": "tcp://0.tcp.eu.ngrok.io:14273"
+    "URL": "tcp://0.tcp.eu.ngrok.io:17495"
   },
   {
     "endpointType": "urn:nuts:endpoint:fhir",
