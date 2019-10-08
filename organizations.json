@@ -3,5 +3,10 @@
     "name": "Verpleeghuis De Nootjes",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwOkBHQ5b2QG9STODkHLY\nRfLSEYGqJvy9IAIZTbHhnYDUOSteF9adQtxs56AwTiYHM5ei2qiS9otHZp8zojqg\n3jUqWuJCw0X0HH3Jpp7RWbFQtabAYpQ/N1+klKkQ64WgQ7XbWxlP+OcsiFXYsBou\nMfC+LeBqgytJcpFvkf1kw2x6LhLD63qr/wg0MVl6mx8d8ccNPDp8nzkgutLWKREM\n/tfnqcwZS+ucKBNPTxAiP3rspF3CgoGn6WCe5TFN7dW2pTI5KTePDuwq698CXpQI\nbu9rxK+zxhI1A4ba8U9THc9YuH889HUwCNTKFV3SPl+jg5FqHjngHpk6ImmWfMPP\nowIDAQAB\n-----END PUBLIC KEY-----"
-  }
+  },
+  {
+    "name": "Burger Cared",
+    "identifier": "brrr",
+    "publicKey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Nmeh+URQq62niqV/JLV7IP667whOaMj6lND/lkrt7ajr2pHqMT/TMYBXbiGlbYUb0C3LbMghJNh0b0NhO9vawlBeTIN2NX9tHzxqz+BZhYwfwxo9Q0/QTJxeYKak8i2U47bYiiQ5t7YH1GovZuBlnONQavCjgEk8ow4NTz9chd2yjRJZpNJtjL+mMR3AUSoJhADOpOgtyzblbMbRG4hg5XSIXObfr6aV44qK7Et9epjHdmYrVy0lmYfoHyZvnrIaPwKxmjFO+HQ/yiBfkI6QLR/YtBTjBMK+b2LsVHrR/Waq0wQfIFWc1RJFVyxv+tu4WqYSF+996G+6sLmP1730QIDAQAB-----END PUBLIC KEY-----"
+  }    
 ]
