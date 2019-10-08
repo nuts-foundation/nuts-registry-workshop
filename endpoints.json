@@ -1,10 +1,10 @@
 [
   {
     "endpointType": "urn:nuts:endpoint:consent",
-    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_host",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_enattrodt",
     "status": "active",
     "version": "0.1.0",
-    "URL": "tcp://1.tcp.eu.ngrok.io:24964"
+    "URL": "tcp://1.tcp.eu.ngrok.io:11617"
   },
   {
     "endpointType": "urn:nuts:endpoint:fhir",
