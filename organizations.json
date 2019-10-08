@@ -58,5 +58,10 @@
     "name": "ZD test org",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12345678",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwDnw8Eg/ewtPRUv5Gi5h\nBpDm4wb5YvVrW18FQi/HJr1Fba/QOPE9zWKBIcFRGZSLldhk0nlEX0StcaZJcvj0\nGKjbwyd2mbBB/rvDaxjryGSGKH6H33SHhESgXozUFLahyuPaZCkC59pDvg7hoNxC\nl1jxv9CCP+LEEeGTYVSDm/b//sFjIfeX5QCWrnLh4F/AXEYulQI3uueGNOjFnpfx\n8TC1ZuwulUPfFLETLhkmZ+mzkE/yV9KVLv1oBpV93aeCTb2eiBZU9crFTxURFSH/\nPYzx74lC2uIY/YoXq8oPfFB8yo8ef810YxkWmbKJlOnr/ATO2Oh1mc4xffLH33+a\nOQIDAQAB\n-----END PUBLIC KEY-----"
-  }
+  },
+  {
+    "name": "Huisarts Jan",
+    "identifier": "4111986",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs49DcHxZYbh89KD1+jCS\n2Vf4nt+0SgUOebq/GSrZulCLHHIBtSsHqSKXmZiTdIensHXQfcczFalJCQRGPJ/i\npsX3sKovY5fjYWDalb0f4Cnta1y4bfF+yH1GaAEibkT1NLIYkzV5EfyjcDtaHPn5\nqs4QcxCE3hrzkkIFoPrRQdJhD/PCsybe8r82q+Su14X1W5H9a9Ewm9JahxQHATnS\nsIa1EvSAVo4wm20go6XeUd/ocynkIWP5Nnb6fJQSzXBz6+AaHjTT4CBfZqxrmgDh\nMHA6WRfa3bRxkKuPW8mnHKEej2o1Taovg906MiWR+h4dGNwjJwMJhjRb0+EJpXFK\nTQIDAQAB\n-----END PUBLIC KEY-----"
+  },
 ]
