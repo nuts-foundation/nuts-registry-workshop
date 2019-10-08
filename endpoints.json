@@ -22,6 +22,13 @@
   },
   {
     "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_CHANGE_ME",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://1.tcp.eu.ngrok.io:14392"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
     "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_steven",
     "status": "active",
     "version": "0.1.0",
