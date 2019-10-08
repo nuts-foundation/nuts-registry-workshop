@@ -1,13 +1,23 @@
 [
   {
     "status": "active",
-    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
-    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_host"
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:12321232",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nvc3303"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:5282",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_rdomingo"
   },
   {
     "status": "active",
     "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "endpoint": "FB76A724-7004-4DCE-A33B-4771F6E3B53B"
+  },
+  {
+    "status": "active",
+    "organization": "brrr",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_CHANGE_ME"
   },
   {
     "status": "active",
@@ -23,6 +33,10 @@
     "status": "active",    
     "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:13579246",
     "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_rpoddighe"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:123123123",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_ton_bosma"
   }
-
 ]

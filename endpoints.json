@@ -1,10 +1,17 @@
 [
   {
     "endpointType": "urn:nuts:endpoint:consent",
-    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_host",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nvc3303",
     "status": "active",
     "version": "0.1.0",
-    "URL": "tcp://1.tcp.eu.ngrok.io:24964"
+    "URL": "tcp://0.tcp.eu.ngrok.io:14068"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_rdomingo",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://1.tcp.eu.ngrok.io:14688"
   },
   {
     "endpointType": "urn:nuts:endpoint:fhir",
@@ -12,6 +19,13 @@
     "status": "active",
     "version": "0.1.0",
     "URL": "https://nuts-fhir.eu.ngrok.io/t/fhir/"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_CHANGE_ME",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://1.tcp.eu.ngrok.io:14392"
   },
   {
     "endpointType": "urn:nuts:endpoint:consent",
@@ -33,5 +47,12 @@
     "status": "active",
     "version": "0.1.0",
     "URL": "tcp://0.tcp.eu.ngrok.io:11418"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_tonbosma",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://0.tcp.eu.ngrok.io:16576"
   }
 ]
