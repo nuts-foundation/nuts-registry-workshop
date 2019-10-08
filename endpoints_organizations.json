@@ -53,5 +53,10 @@
     "status": "active",
     "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:12345678",
     "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_zorgdomein_joh"
+  },
+  {
+    "status": "active",
+    "organization": "4111986",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_MEDWORQ"
   }
 ]
