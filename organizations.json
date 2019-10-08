@@ -1,13 +1,18 @@
 [
   {
+    "name": "RDomingo",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:5282",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuKjoosQFSAYCS+QQGVBh\n8N+GFd34ufUAdGBwLvvMzB0JPpGpEX0oo8RS4dL8JCruHlzT4HP/bPzIF41fc4WT\niOFPFpktY1tJdBS2/XS8i2ehzFLw3YJ3qWX9XQGdJfNHdbbz9h1RXIgBs7UdipHD\n0+hW+XesT/YkhJSrOA5UxglojI2LrArCzbwlbUUhidMH7962uC87IYvhOux8DK54\naOEteNER+ZkZRpnR5vBYT03Soje8KBNez2x+GUlhRDQwS/11PDditMGObAScaJVH\nrZm+HohiH/rRcQFl0QWLWCFwpPdfu5eHEputNl9GOjvPpRezuvDYN641jL7uZ/ro\nkQIDAQAB\n-----END PUBLIC KEY-----"
+  },
+  {
     "name": "Verpleeghuis De Nootjes",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwOkBHQ5b2QG9STODkHLY\nRfLSEYGqJvy9IAIZTbHhnYDUOSteF9adQtxs56AwTiYHM5ei2qiS9otHZp8zojqg\n3jUqWuJCw0X0HH3Jpp7RWbFQtabAYpQ/N1+klKkQ64WgQ7XbWxlP+OcsiFXYsBou\nMfC+LeBqgytJcpFvkf1kw2x6LhLD63qr/wg0MVl6mx8d8ccNPDp8nzkgutLWKREM\n/tfnqcwZS+ucKBNPTxAiP3rspF3CgoGn6WCe5TFN7dW2pTI5KTePDuwq698CXpQI\nbu9rxK+zxhI1A4ba8U9THc9YuH889HUwCNTKFV3SPl+jg5FqHjngHpk6ImmWfMPP\nowIDAQAB\n-----END PUBLIC KEY-----",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwOkBHQ5b2QG9STODkHLY\nRfLSEYGqJvy9IAIZTbHhnYDUOSteF9adQtxs56AwTiYHM5ei2qiS9otHZp8zojqg\n3jUqWuJCw0X0HH3Jpp7RWbFQtabAYpQ/N1+klKkQ64WgQ7XbWxlP+OcsiFXYsBou\nMfC+LeBqgytJcpFvkf1kw2x6LhLD63qr/wg0MVl6mx8d8ccNPDp8nzkgutLWKREM\n/tfnqcwZS+ucKBNPTxAiP3rspF3CgoGn6WCe5TFN7dW2pTI5KTePDuwq698CXpQI\nbu9rxK+zxhI1A4ba8U9THc9YuH889HUwCNTKFV3SPl+jg5FqHjngHpk6ImmWfMPP\nowIDAQAB\n-----END PUBLIC KEY-----"
   },
   {
     "name": "Verpleeghuis de goede zin",
     "identifier": "12300000",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjb4veyxVmKK+XS7kopt\n2Zx7C+PJdwgtOv2RL5zjdqhpEBg46BbGvG1PZKrzz6NWgu6fDXggyPgTLHlyxtW9\nGU90B2UwJUbs0oNUjWPzAI7wPjsfIxTQQopLTK6zJKJpV4nIlFqlK/ZC5yvNFRrj\n/PcEnWki15iRoQZFSVaYtSEJMhtTBr+rSaRkit39lKUkNJ4d0GMdHYvKIhgezoqZ\nDnxxMFv3CwdqiOtow+Bh79ugJdCJukQV5tv4weJAJKlnP8yps/hJ0K7Mk5xTlC0n\n41lJSBxWi0XiZOz8t7szY3l+Cam5S7vToyrQcdc51AHDGAsQtMkYcMH5bEXZ77Ly\nKQIDAQAB\n-----END PUBLIC KEY-----",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjb4veyxVmKK+XS7kopt\n2Zx7C+PJdwgtOv2RL5zjdqhpEBg46BbGvG1PZKrzz6NWgu6fDXggyPgTLHlyxtW9\nGU90B2UwJUbs0oNUjWPzAI7wPjsfIxTQQopLTK6zJKJpV4nIlFqlK/ZC5yvNFRrj\n/PcEnWki15iRoQZFSVaYtSEJMhtTBr+rSaRkit39lKUkNJ4d0GMdHYvKIhgezoqZ\nDnxxMFv3CwdqiOtow+Bh79ugJdCJukQV5tv4weJAJKlnP8yps/hJ0K7Mk5xTlC0n\n41lJSBxWi0XiZOz8t7szY3l+Cam5S7vToyrQcdc51AHDGAsQtMkYcMH5bEXZ77Ly\nKQIDAQAB\n-----END PUBLIC KEY-----"
   },
   {
     "name": "Nootjes zijn Lekker",
