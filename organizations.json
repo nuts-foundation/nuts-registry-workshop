@@ -71,7 +71,7 @@
   },
   {
     "name": "Het Ferpleechhuiz",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:668866886688",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:6688",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzTTJKqz7i0R2345lGDj\nJ/kYOdmR1rP0rn4yusfM3AE89khzndCKQudf74WVHcTMUGO78z9AOyPA89FVKHnk\ncFDAAN511mNsY3HsvkMNLVmNhUB//rG7EvaB9qvrr78gY267fuwjde6wlUrnZXbu\nSF5Aspy6YdDag+5H4isX8x695LPvMb+BCtXFO8ItEIoI3gjbHcc8wtfRYwoAmUSq\n2vPNFOhk/0rIPJzPRfQmo/dB3RZsaoRbHRWNpMp021IuZiKXboOFcAj66xP5ta5p\nOJ7taavwRBLAlloODT3BY89kLg3X00eUpi03AzIecW5QjNRTRiB9l8uRUgUBtoR8\nBQIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
