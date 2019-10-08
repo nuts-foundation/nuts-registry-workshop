@@ -12,7 +12,7 @@
   {
     "name": "Erika Nattrodt",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:23",
-    "publicKey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2gLl93hF0JZy8H0acrjI/9Lxh2SqqGKU4GgsZxNIKGrk3/iwyPKA5Q0MAiW2qejPEfSjoAMgyOybb5tnhoXxndPSucIXO6sPMoIL0/kFvMVrATMSSVB8tvCpHJZG+oBt8WjVHda4vowoIbw3ObO83Q1xvpjHDr/NOKcN0X+D54uRyI+ey41m4VGVP6MSXtSz305x+kXjTVHZfg3znL6sAaB7bfTzH3yz+CKfv4Nw0/3AXIeUAy3oofgd2oibTeej2/nPqG6GcGLAGfhU+HIT4xsqrF/Zm527dhk/aXgJD1VuMIBjpKQDtqayQAcNBcuB5UtorvMUe3/etoE8mxZ4QQIDAQAB-----END PUBLIC KEY-----"
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2gLl93hF0JZy8H0acrjI\n/9Lxh2SqqGKU4GgsZxNIKGrk3/iwyPKA5Q0MAiW2qejPEfSjoAMgyOybb5tnhoXx\nndPSucIXO6sPMoIL0/kFvMVrATMSSVB8tvCpHJZG+oBt8WjVHda4vowoIbw3ObO8\n3Q1xvpjHDr/NOKcN0X+D54uRyI+ey41m4VGVP6MSXtSz305x+kXjTVHZfg3znL6s\nAaB7bfTzH3yz+CKfv4Nw0/3AXIeUAy3oofgd2oibTeej2/nPqG6GcGLAGfhU+HIT\n4xsqrF/Zm527dhk/aXgJD1VuMIBjpKQDtqayQAcNBcuB5UtorvMUe3/etoE8mxZ4\nQQIDAQAB\n-----END PUBLIC KEY-----"
   },
   {
     "name": "Verpleeghuis De Nootjes",
