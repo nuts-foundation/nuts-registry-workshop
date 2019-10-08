@@ -63,5 +63,9 @@
     "name": "active",
     "organization": "urn:iod:2.16.840.1.113883.2.4.6.1:nvc3725",
     "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nvc3725"
+  },
+  {
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:6688",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nxs_m"
   }
 ]
