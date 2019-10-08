@@ -7,10 +7,59 @@
     "URL": "tcp://1.tcp.eu.ngrok.io:11617"
   },
   {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nvc3303",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://0.tcp.eu.ngrok.io:14068"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_rdomingo",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://1.tcp.eu.ngrok.io:14688"
+  },
+  {
     "endpointType": "urn:nuts:endpoint:fhir",
     "identifier": "FB76A724-7004-4DCE-A33B-4771F6E3B53B",
     "status": "active",
     "version": "0.1.0",
     "URL": "https://nuts-fhir.eu.ngrok.io/t/fhir/"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_CHANGE_ME",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://1.tcp.eu.ngrok.io:14392"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_steven",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://0.tcp.eu.ngrok.io:19488"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nootjes_zijn_lekker",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://0.tcp.eu.ngrok.io:10734"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_rpoddighe",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://0.tcp.eu.ngrok.io:11418"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_tonbosma",
+    "status": "active",
+    "version": "0.1.0",
+    "URL": "tcp://0.tcp.eu.ngrok.io:16576"
   }
 ]
