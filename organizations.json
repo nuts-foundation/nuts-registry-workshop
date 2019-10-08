@@ -6,8 +6,8 @@
   },
   {
     "name": "Verpleeghuis de goede zin",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:69696969",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7Ky6Frj3k1MbukCiy5Mk\nTR0oqYOtTvBrYMxc7eO6BDbt1ZUAAKnSipBRre51FLMfdC3bzL7eTYdV0sdjxiMl\niEk3G+svLRclzRKl4OozVmtNo3hH79wi2BfVvf1bUo945HjRLOPp9zVbX1Xc4Mqw\nDuDPgkw5Pcnw2AXiFCI21ih2WHNk2VJJycOON224yamCxQK0EJ1aROtJOwHhQ+rj\n3ZQDkD6z2giuxCV7JCMuH4L36D58A5+44OhtdUz6iwsZieVlMP5r1JqeAOd4zpQA\n8jk9Fg7/eUflkaZFoRNlWqCO6mcBCsxAoViRfsK6SeWyM6f/AB4I7skraTZtRJIJ\nAQIDAQAB\n-----END PUBLIC KEY-----"
+    "identifier": "12300000",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjb4veyxVmKK+XS7kopt\n2Zx7C+PJdwgtOv2RL5zjdqhpEBg46BbGvG1PZKrzz6NWgu6fDXggyPgTLHlyxtW9\nGU90B2UwJUbs0oNUjWPzAI7wPjsfIxTQQopLTK6zJKJpV4nIlFqlK/ZC5yvNFRrj\n/PcEnWki15iRoQZFSVaYtSEJMhtTBr+rSaRkit39lKUkNJ4d0GMdHYvKIhgezoqZ\nDnxxMFv3CwdqiOtow+Bh79ugJdCJukQV5tv4weJAJKlnP8yps/hJ0K7Mk5xTlC0n\n41lJSBxWi0XiZOz8t7szY3l+Cam5S7vToyrQcdc51AHDGAsQtMkYcMH5bEXZ77Ly\nKQIDAQAB\n-----END PUBLIC KEY-----"
   }
 
 ]
