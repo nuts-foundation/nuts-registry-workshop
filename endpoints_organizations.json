@@ -1,8 +1,18 @@
 [
   {
     "status": "active",
-    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
-    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_host"
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:23",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_enattrodt"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:12321232",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nvc3303"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:5282",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_rdomingo"
   },
   {
     "status": "active",
@@ -11,18 +21,42 @@
   },
   {
     "status": "active",
+    "organization": "brrr",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_CHANGE_ME"
+  },
+  {
+    "status": "active",
+    "organization": "12300000",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_steven"
+  },
+  {
+    "status": "active",
     "organization": "urn:oid:2.16.840.1.1113883.2.4.6.1:1234567",
     "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_nootjes_zijn_lekker"
   },
   {
-    "status": "active",    
+    "status": "active",
     "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:13579246",
     "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_rpoddighe"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:SanderOrg",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_SanderNode"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:123123123",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_tonbosma"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:12345678",
+    "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_zorgdomein_joh"
   }
    {
     "status": "active",    
     "organization": "4111986",
     "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_MEDWORQ"
   }
-
 ]
