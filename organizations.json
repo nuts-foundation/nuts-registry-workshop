@@ -53,5 +53,10 @@
     "name": "Jaap",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:10234",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjhl7Wi4GN6tWzB74tFk\noCnIN5iaRjqi7H1lgdBye5Tx0qfWgMzSK9RsO+KY7Dk0ItFJqLyQVecogcBv2RoA\n4nZQ+NdKqPCvsDPKikQfU1bDT5zF3S+jOYwMFpZLYJAATu/89iKbx1t9ac6HQZB9\nhaEKEVU0ajgHJe4+WPuqanhpXP7ZThhDuRWgQ9Mg2defLRhUM6itUgTMzT38Es6r\nm/3scQUFn5R3+irlEGBpMSLa56z96pz2BbJrp/mwPmFPMBmrAwWlRhPxz7gwF/DR\ncFX8eh13wSFqxNKB9Oyxpzuqod5zGT77WEjGTf835TD1Q93YRAb30CRYATDLVbEz\n5wIDAQAB\n-----END PUBLIC KEY-----"
+  },
+  {
+    "name": "ZD test org",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12345678",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwDnw8Eg/ewtPRUv5Gi5h\nBpDm4wb5YvVrW18FQi/HJr1Fba/QOPE9zWKBIcFRGZSLldhk0nlEX0StcaZJcvj0\nGKjbwyd2mbBB/rvDaxjryGSGKH6H33SHhESgXozUFLahyuPaZCkC59pDvg7hoNxC\nl1jxv9CCP+LEEeGTYVSDm/b//sFjIfeX5QCWrnLh4F/AXEYulQI3uueGNOjFnpfx\n8TC1ZuwulUPfFLETLhkmZ+mzkE/yV9KVLv1oBpV93aeCTb2eiBZU9crFTxURFSH/\nPYzx74lC2uIY/YoXq8oPfFB8yo8ef810YxkWmbKJlOnr/ATO2Oh1mc4xffLH33+a\nOQIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
