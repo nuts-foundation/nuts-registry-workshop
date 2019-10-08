@@ -17,7 +17,7 @@
   {
     "name": "Burger Cared",
     "identifier": "brrr",
-    "publicKey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Nmeh+URQq62niqV/JLV7IP667whOaMj6lND/lkrt7ajr2pHqMT/TMYBXbiGlbYUb0C3LbMghJNh0b0NhO9vawlBeTIN2NX9tHzxqz+BZhYwfwxo9Q0/QTJxeYKak8i2U47bYiiQ5t7YH1GovZuBlnONQavCjgEk8ow4NTz9chd2yjRJZpNJtjL+mMR3AUSoJhADOpOgtyzblbMbRG4hg5XSIXObfr6aV44qK7Et9epjHdmYrVy0lmYfoHyZvnrIaPwKxmjFO+HQ/yiBfkI6QLR/YtBTjBMK+b2LsVHrR/Waq0wQfIFWc1RJFVyxv+tu4WqYSF+996G+6sLmP1730QIDAQAB\n-----END PUBLIC KEY-----"
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Nmeh+URQq62niqV/JLV\n\n7IP667whOaMj6lND/lkrt7ajr2pHqMT/TMYBXbiGlbYUb0C3LbMghJNh0b0NhO9v\nawlBeTIN2NX9tHzxqz+BZhYwfwxo9Q0/QTJxeYKak8i2U47bYiiQ5t7YH1GovZuB\nlnONQavCjgEk8ow4NTz9chd2yjRJZpNJtjL+mMR3AUSoJhADOpOgtyzblbMbRG4h\ng5XSIXObfr6aV44qK7Et9epjHdmYrVy0lmYfoHyZvnrIaPwKxmjFO+HQ/yiBfkI6\nQLR/YtBTjBMK+b2LsVHrR/Waq0wQfIFWc1RJFVyxv+tu4WqYSF+996G+6sLmP173\n0QIDAQAB\n-----END PUBLIC KEY-----"
   },
   {    
     "name": "Verpleeghuis de goede zin",
