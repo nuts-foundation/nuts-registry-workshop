@@ -1,7 +1,7 @@
 [
   {
-    "name": "Verpleeghuis De Nootjes",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwOkBHQ5b2QG9STODkHLY\nRfLSEYGqJvy9IAIZTbHhnYDUOSteF9adQtxs56AwTiYHM5ei2qiS9otHZp8zojqg\n3jUqWuJCw0X0HH3Jpp7RWbFQtabAYpQ/N1+klKkQ64WgQ7XbWxlP+OcsiFXYsBou\nMfC+LeBqgytJcpFvkf1kw2x6LhLD63qr/wg0MVl6mx8d8ccNPDp8nzkgutLWKREM\n/tfnqcwZS+ucKBNPTxAiP3rspF3CgoGn6WCe5TFN7dW2pTI5KTePDuwq698CXpQI\nbu9rxK+zxhI1A4ba8U9THc9YuH889HUwCNTKFV3SPl+jg5FqHjngHpk6ImmWfMPP\nowIDAQAB\n-----END PUBLIC KEY-----"
+    "name": "ZD test org",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12345678",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwDnw8Eg/ewtPRUv5Gi5h\nBpDm4wb5YvVrW18FQi/HJr1Fba/QOPE9zWKBIcFRGZSLldhk0nlEX0StcaZJcvj0\nGKjbwyd2mbBB/rvDaxjryGSGKH6H33SHhESgXozUFLahyuPaZCkC59pDvg7hoNxC\nl1jxv9CCP+LEEeGTYVSDm/b//sFjIfeX5QCWrnLh4F/AXEYulQI3uueGNOjFnpfx\n8TC1ZuwulUPfFLETLhkmZ+mzkE/yV9KVLv1oBpV93aeCTb2eiBZU9crFTxURFSH/\nPYzx74lC2uIY/YoXq8oPfFB8yo8ef810YxkWmbKJlOnr/ATO2Oh1mc4xffLH33+a\nOQIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
