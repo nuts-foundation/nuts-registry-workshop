@@ -13,5 +13,10 @@
     "name": "Cardiologiecentrum Brandhorst",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:36003600",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApo57OVxhMkEpJy1nsz67\nL1hiFWJyJLY9M6QqTTdtx04HiwUE+V0Hp+eQCoi43oIEmjuVIpCK17qO86V4u0mr\nhHJS1IeIXjGWhFa4+5HOc5dVOkPiy/vGRm7i4NPk3TljFJP+ttcCzscUA++1XSDa\naO3BQey/4RVlmhp2KGoen2+OtKJd1CNsPiuQ4KSK7a/GOo4aAjpOjCIyrXaPjNSk\nS/8ej8ZlUKjim+ondDGg4pwN3ThMpZXmVt0n6YGWk3XqQpeaTQ0QkoV+gB2tQcJa\nGLb0VyuduqE24cHvBSqUbhy8e5HlOYOS7jqin30WsblT38wWF2lU8B7B2ThovuP3\n7QIDAQAB\n-----END PUBLIC KEY-----"
+  },
+  {
+    "name": "EHBO slag om Grolle",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:36003600",
+    "publicKey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw51ft9CGxSrIjEJuuWUIpnunZNzxS0Oun2YMeXW2YldiGKFBvhioJqdeXwIsLmi1wb+JUedYjh7EGsp9+H4sT02eBrCRMHUQlNnHWEBGbKNoRCessEf+y4LB7BgKfXe/jJdYnqXX1OgGV0m5VsxEK/A2ZJgLUbHcsKqZsw5PJqx3FyGFdG7CCN0yqsdReIKjb1lCYGH9sYTeP5K6JLqdwK6MRwIZTcfwwKBtilbixdQCE9POwNnJ2cezjY1RguUtIl2O2EI4ufBUfDQZ4lUr1TFVs4XCFmVpcEjSgb8FE80o8KBshO/dgNfE0A/018RQ4RK+X5GE3boo6EiqDOo/ewIDAQAB-----END PUBLIC KEY-----"
   }
 ]
