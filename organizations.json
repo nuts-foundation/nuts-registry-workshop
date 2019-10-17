@@ -1,77 +1,12 @@
 [
   {
-    "name": "SJV",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12321232",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnXm72ypUl8x8uRcX6JH9\nQNEwItt3Ix9WZhQ0f9sqGl5AEcl42kHAvF2M9OtyKr/KjyI1jgAsOKk2CR5IigXN\nLLiAQlKnSeZenjsCsC7qkRdJcWPHiMxMssV5EAt9lAH9QKDj1AnmESssL6EbJAie\ngkoc8ifm+ufdUWF4KOk0Au5MpWseLhUuLFo9ABggBtLLZlJ0Yc2ubziyELhBqMDw\nZdEiXbBKpqijbzVTNRUFCg0lS7aAhvtip291an8eXfed5cjoApxk1EIjDtN06n+h\naAuTWBStC92B7eSYBM6TSqW6HLARrCR4QNONufMQ2A1rLHiQCJdoJx9i7lPZsDod\noQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "RDomingo",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:5282",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuKjoosQFSAYCS+QQGVBh\n8N+GFd34ufUAdGBwLvvMzB0JPpGpEX0oo8RS4dL8JCruHlzT4HP/bPzIF41fc4WT\niOFPFpktY1tJdBS2/XS8i2ehzFLw3YJ3qWX9XQGdJfNHdbbz9h1RXIgBs7UdipHD\n0+hW+XesT/YkhJSrOA5UxglojI2LrArCzbwlbUUhidMH7962uC87IYvhOux8DK54\naOEteNER+ZkZRpnR5vBYT03Soje8KBNez2x+GUlhRDQwS/11PDditMGObAScaJVH\nrZm+HohiH/rRcQFl0QWLWCFwpPdfu5eHEputNl9GOjvPpRezuvDYN641jL7uZ/ro\nkQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Erika Nattrodt",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:23",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2gLl93hF0JZy8H0acrjI\n/9Lxh2SqqGKU4GgsZxNIKGrk3/iwyPKA5Q0MAiW2qejPEfSjoAMgyOybb5tnhoXx\nndPSucIXO6sPMoIL0/kFvMVrATMSSVB8tvCpHJZG+oBt8WjVHda4vowoIbw3ObO8\n3Q1xvpjHDr/NOKcN0X+D54uRyI+ey41m4VGVP6MSXtSz305x+kXjTVHZfg3znL6s\nAaB7bfTzH3yz+CKfv4Nw0/3AXIeUAy3oofgd2oibTeej2/nPqG6GcGLAGfhU+HIT\n4xsqrF/Zm527dhk/aXgJD1VuMIBjpKQDtqayQAcNBcuB5UtorvMUe3/etoE8mxZ4\nQQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
     "name": "Verpleeghuis De Nootjes",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwOkBHQ5b2QG9STODkHLY\nRfLSEYGqJvy9IAIZTbHhnYDUOSteF9adQtxs56AwTiYHM5ei2qiS9otHZp8zojqg\n3jUqWuJCw0X0HH3Jpp7RWbFQtabAYpQ/N1+klKkQ64WgQ7XbWxlP+OcsiFXYsBou\nMfC+LeBqgytJcpFvkf1kw2x6LhLD63qr/wg0MVl6mx8d8ccNPDp8nzkgutLWKREM\n/tfnqcwZS+ucKBNPTxAiP3rspF3CgoGn6WCe5TFN7dW2pTI5KTePDuwq698CXpQI\nbu9rxK+zxhI1A4ba8U9THc9YuH889HUwCNTKFV3SPl+jg5FqHjngHpk6ImmWfMPP\nowIDAQAB\n-----END PUBLIC KEY-----"
   },
   {
-    "name": "Burger Cared",
-    "identifier": "brrr",
-    "publicKey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1Nmeh+URQq62niqV/JLV7IP667whOaMj6lND/lkrt7ajr2pHqMT/TMYBXbiGlbYUb0C3LbMghJNh0b0NhO9vawlBeTIN2NX9tHzxqz+BZhYwfwxo9Q0/QTJxeYKak8i2U47bYiiQ5t7YH1GovZuBlnONQavCjgEk8ow4NTz9chd2yjRJZpNJtjL+mMR3AUSoJhADOpOgtyzblbMbRG4hg5XSIXObfr6aV44qK7Et9epjHdmYrVy0lmYfoHyZvnrIaPwKxmjFO+HQ/yiBfkI6QLR/YtBTjBMK+b2LsVHrR/Waq0wQfIFWc1RJFVyxv+tu4WqYSF+996G+6sLmP1730QIDAQAB-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Verpleeghuis de goede zin",
-    "identifier": "12300000",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjb4veyxVmKK+XS7kopt\n2Zx7C+PJdwgtOv2RL5zjdqhpEBg46BbGvG1PZKrzz6NWgu6fDXggyPgTLHlyxtW9\nGU90B2UwJUbs0oNUjWPzAI7wPjsfIxTQQopLTK6zJKJpV4nIlFqlK/ZC5yvNFRrj\n/PcEnWki15iRoQZFSVaYtSEJMhtTBr+rSaRkit39lKUkNJ4d0GMdHYvKIhgezoqZ\nDnxxMFv3CwdqiOtow+Bh79ugJdCJukQV5tv4weJAJKlnP8yps/hJ0K7Mk5xTlC0n\n41lJSBxWi0XiZOz8t7szY3l+Cam5S7vToyrQcdc51AHDGAsQtMkYcMH5bEXZ77Ly\nKQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
     "name": "Nootjes zijn Lekker",
     "identifier": "urn:oid:2.16.840.1.1113883.2.4.6.1:1234567",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9zrAFYTOU8JVMjgeZfcD\n79Jb2SS7JevOgZxBw3dyI3poSc/S/a5Q9JnE4a3zpI43zZN9Z6AnRgQlEN2j7yJ8\niL5jkXwrMEqIWY0r0LSudFs4CxVzdVVXk0D/CQr8qgRmKDJiDNP3CshIrVABh6/Q\n7ShaN8Q08YCDDjdMXvZWxeVgIQKpIaB04r8u53Z4wOneNrOlfQ+PFzy0KRDaweLh\nA9/dPv5P0o3CW9f7YrWV5U7hwswab3wO33ic+/LhtSfJ9N4Cdr0E6kri7IH8oBEF\nWouBcRWiNSmPNzIJdNiRhgfrOsiZVvgTvEXs8hj6qVwVxbYTeA+SmeJW79TbUz55\n3QIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Renzo",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:13579246",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApXmCBIrbPKY4sPin5m1j\nUFy9Ht9eil9kvxoUkMspQbKMTzAASgUbXQflDLzc1aJ5VpugaS3c0XVhkpxVtxH5\nSd0Q1VFeIB28VmpCbcm8Gh7TwPwsZ0JBY4CL6P1dnJyO7ZRkOzppj03UMjGzqff6\ntiK6FU1Dcw5QK2XZiJJKmndOPvuwC0RoeaR1IHSU8Q4iOxiaR3OZBtcSw2oiLMxC\nwhgGhzfYu+geqZ0VmdCHG5w30f99S8i4qvJb16XRBy2g2p69NbWMbFOT4LxcRnxX\nAxH6VTiMRWra49W9anYLhT+2FWiJS6cu0V8A1Ro0MQV3nzUhfpZEnW+lKcO/Fp8R\nJQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Sander",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:SanderOrg",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApRP8JsA9JVS7it9e1Wrr\noUeq5iPd39L0O8DhFB4sTwys3s25mcM7TjiY6bW1rZw+PP224oQoK41e2aXxMNCQ\nqvqkSCX6pRsCeJnJ660h90hVdVLp7bVHc6Td8FY+/FRBhSX/5uMv5A9nKLDuEYIX\nuuuERGD0TDKQ21icIM7mwE/MUgvwn80h3oOIxdf6L9HaYFTA8HI/0gYhHbVNMWbN\nSby5qBPRL8et4l/NyKtawEZJ7zEWRgnZhcGuPtB3NoHbomWyTUkiym+bFc/V/1W+\nSV6543EPAVNolmpjZwPHTelLnT7Ii+QURG3nLzOSTeGAIYiLte8eh4U2wvqEa2DR\nCwIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Ton hoekje",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:123123123",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvLq3nkxQSHdiZ6ffrQh7\ndz4WNaSs2ou1en2LF3vTREulinWCMx1H8aodYxvLmzp8vDx7/Mum7/11aYoNko8Z\nxhG2fMxMJr9ANCQCo8OCMV6Lumny+smJh17K1NOq6KRjkpJ2LcMmoORSxQjFaWQ7\nuj/z8TTC7/d9GmhD5XuhGiHRbQ7jnDLuUFb53hbm3oPyCxCGHTBg5ujepS2WbHnF\nKVdzimuT+iXoWi91Ueze6Zf/6IyslVywLzFzalUwx3EOtA35PrtSVGuWZnZMepId\nBq8zRAqF3xDJo5dUc8rrg4wvyRMdNPDtXSpjOHJoBT1LRat+wZE28O8RZUxIjqmX\nZQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Jaap",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:10234",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjhl7Wi4GN6tWzB74tFk\noCnIN5iaRjqi7H1lgdBye5Tx0qfWgMzSK9RsO+KY7Dk0ItFJqLyQVecogcBv2RoA\n4nZQ+NdKqPCvsDPKikQfU1bDT5zF3S+jOYwMFpZLYJAATu/89iKbx1t9ac6HQZB9\nhaEKEVU0ajgHJe4+WPuqanhpXP7ZThhDuRWgQ9Mg2defLRhUM6itUgTMzT38Es6r\nm/3scQUFn5R3+irlEGBpMSLa56z96pz2BbJrp/mwPmFPMBmrAwWlRhPxz7gwF/DR\ncFX8eh13wSFqxNKB9Oyxpzuqod5zGT77WEjGTf835TD1Q93YRAb30CRYATDLVbEz\n5wIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "ZD test org",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12345678",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwDnw8Eg/ewtPRUv5Gi5h\nBpDm4wb5YvVrW18FQi/HJr1Fba/QOPE9zWKBIcFRGZSLldhk0nlEX0StcaZJcvj0\nGKjbwyd2mbBB/rvDaxjryGSGKH6H33SHhESgXozUFLahyuPaZCkC59pDvg7hoNxC\nl1jxv9CCP+LEEeGTYVSDm/b//sFjIfeX5QCWrnLh4F/AXEYulQI3uueGNOjFnpfx\n8TC1ZuwulUPfFLETLhkmZ+mzkE/yV9KVLv1oBpV93aeCTb2eiBZU9crFTxURFSH/\nPYzx74lC2uIY/YoXq8oPfFB8yo8ef810YxkWmbKJlOnr/ATO2Oh1mc4xffLH33+a\nOQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Huisarts Jan",
-    "identifier": "4111986",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs49DcHxZYbh89KD1+jCS\n2Vf4nt+0SgUOebq/GSrZulCLHHIBtSsHqSKXmZiTdIensHXQfcczFalJCQRGPJ/i\npsX3sKovY5fjYWDalb0f4Cnta1y4bfF+yH1GaAEibkT1NLIYkzV5EfyjcDtaHPn5\nqs4QcxCE3hrzkkIFoPrRQdJhD/PCsybe8r82q+Su14X1W5H9a9Ewm9JahxQHATnS\nsIa1EvSAVo4wm20go6XeUd/ocynkIWP5Nnb6fJQSzXBz6+AaHjTT4CBfZqxrmgDh\nMHA6WRfa3bRxkKuPW8mnHKEej2o1Taovg906MiWR+h4dGNwjJwMJhjRb0+EJpXFK\nTQIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "NVC3725",
-    "identifier": "urn:iod:2.16.840.1.113883.2.4.6.1:nvc3725",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApN12Ce5su/WqiGPiQxZR\nXDR3jHj6qHrQunqe6AJCxXKIhirRAkta7uaMNMN43bp8hBbcw6BZ7XQdio85yPhS\nU2HBXbhnKpVZgemazbZVfzosWzBJqtJunCsLmQUH8d1y4M19ZChInQKMGgdIH1oG\nYnWT/nd8lVd639q3qNgu8lNFAl0Ah5+DgTx9JBMfJO045A1r+fncErNe+npC9uox\nbh9Y2LM8w4zwgaClmwDVkxCQXcPXf0KqdyjYo74/4fM6RC/EuDzWKFofoG4wsM5o\nUW1zYBXnOl7N/mXT98m9Df/AfavKMhwRQMgXBhrWWKhbat45MM1P4j1dVsRQJLV4\nuwIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Het Ferpleechhuiz",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:6688",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzTTJKqz7i0R2345lGDj\nJ/kYOdmR1rP0rn4yusfM3AE89khzndCKQudf74WVHcTMUGO78z9AOyPA89FVKHnk\ncFDAAN511mNsY3HsvkMNLVmNhUB//rG7EvaB9qvrr78gY267fuwjde6wlUrnZXbu\nSF5Aspy6YdDag+5H4isX8x695LPvMb+BCtXFO8ItEIoI3gjbHcc8wtfRYwoAmUSq\n2vPNFOhk/0rIPJzPRfQmo/dB3RZsaoRbHRWNpMp021IuZiKXboOFcAj66xP5ta5p\nOJ7taavwRBLAlloODT3BY89kLg3X00eUpi03AzIecW5QjNRTRiB9l8uRUgUBtoR8\nBQIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
