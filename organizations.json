@@ -8,5 +8,10 @@
     "name": "Nootjes zijn Lekker",
     "identifier": "urn:oid:2.16.840.1.1113883.2.4.6.1:1234567",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9zrAFYTOU8JVMjgeZfcD\n79Jb2SS7JevOgZxBw3dyI3poSc/S/a5Q9JnE4a3zpI43zZN9Z6AnRgQlEN2j7yJ8\niL5jkXwrMEqIWY0r0LSudFs4CxVzdVVXk0D/CQr8qgRmKDJiDNP3CshIrVABh6/Q\n7ShaN8Q08YCDDjdMXvZWxeVgIQKpIaB04r8u53Z4wOneNrOlfQ+PFzy0KRDaweLh\nA9/dPv5P0o3CW9f7YrWV5U7hwswab3wO33ic+/LhtSfJ9N4Cdr0E6kri7IH8oBEF\nWouBcRWiNSmPNzIJdNiRhgfrOsiZVvgTvEXs8hj6qVwVxbYTeA+SmeJW79TbUz55\n3QIDAQAB\n-----END PUBLIC KEY-----"
+  },
+  {
+    "name": "Cardiologiecentrum Brandhorst",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:36003600",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApo57OVxhMkEpJy1nsz67\nL1hiFWJyJLY9M6QqTTdtx04HiwUE+V0Hp+eQCoi43oIEmjuVIpCK17qO86V4u0mr\nhHJS1IeIXjGWhFa4+5HOc5dVOkPiy/vGRm7i4NPk3TljFJP+ttcCzscUA++1XSDa\naO3BQey/4RVlmhp2KGoen2+OtKJd1CNsPiuQ4KSK7a/GOo4aAjpOjCIyrXaPjNSk\nS/8ej8ZlUKjim+ondDGg4pwN3ThMpZXmVt0n6YGWk3XqQpeaTQ0QkoV+gB2tQcJa\nGLb0VyuduqE24cHvBSqUbhy8e5HlOYOS7jqin30WsblT38wWF2lU8B7B2ThovuP3\n7QIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
