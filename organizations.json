@@ -21,7 +21,7 @@
   },
   {
     "name": "EHBO slag om Grolle",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:36003600",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12345678",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw51ft9CGxSrIjEJuuWUI\npnunZNzxS0Oun2YMeXW2YldiGKFBvhioJqdeXwIsLmi1wb+JUedYjh7EGsp9+H4s\nT02eBrCRMHUQlNnHWEBGbKNoRCessEf+y4LB7BgKfXe/jJdYnqXX1OgGV0m5VsxE\nK/A2ZJgLUbHcsKqZsw5PJqx3FyGFdG7CCN0yqsdReIKjb1lCYGH9sYTeP5K6JLqd\nwK6MRwIZTcfwwKBtilbixdQCE9POwNnJ2cezjY1RguUtIl2O2EI4ufBUfDQZ4lUr\n1TFVs4XCFmVpcEjSgb8FE80o8KBshO/dgNfE0A/018RQ4RK+X5GE3boo6EiqDOo/\newIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
