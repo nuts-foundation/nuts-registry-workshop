@@ -23,5 +23,10 @@
     "status": "active",
     "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:00000007",
     "endpoint": "urn:ietf:rfc:1779:O=Nuts,C=NL,L=Groenlo,CN=nuts_corda_development_arjan"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.1113883.2.4.6.1:36003600",
+    "endpoint": "urn:ietf:rfc:1779:O=Topicus,C=NL,L=Deventer,CN=nuts_corda_development_CHANGE_ME"
   }
 ]
